@@ -2,6 +2,7 @@
   "name": "chat-app",
   "version": "1.0.0",
   "description": "A basic chat app to practice websockets. Built with Node and [socket.io] (http://socket.io/get-started/chat/).",
+  "description": "chat app the get familiar with sockets.io",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,4 +13,5 @@
     "express": "^4.10.2",
     "socket.io": "^1.4.8"
   }
+  "license": "ISC"
 }
